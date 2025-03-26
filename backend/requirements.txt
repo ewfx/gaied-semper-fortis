@@ -1,0 +1,8 @@
+beautifulsoup4
+flask
+pandas
+openai
+PyPDF2
+python-docx
+email
+python-docx 
